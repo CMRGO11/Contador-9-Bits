@@ -6,7 +6,7 @@ controlado por una FSM (pausa / ascendente / descendente), con selector de veloc
 
 ## Estructura
 - `src/` — un archivo Verilog por módulo (entidad superior: `counter_9bit_top`).
-- `docs/` — reporte (PDF y fuente LaTeX) y fotos/simulación del experimento.
+- `docs/` — reporte (PDF) con fotos/simulación del experimento.
 
 ## Módulos
 | Módulo | Función |
